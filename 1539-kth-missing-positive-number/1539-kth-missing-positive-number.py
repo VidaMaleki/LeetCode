@@ -1,8 +1,6 @@
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
-        missing_nums = []
+        
         new_range = max(arr) + k + 1
-        for i in range(new_range):
-            if i not in arr:
-                missing_nums.append(i)
-        return missing_nums[k]
+        missing_num = [num for num in range(new_range) if num not in arr]
+        return missing_num[k]
