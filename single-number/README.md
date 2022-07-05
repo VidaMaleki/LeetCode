@@ -1,3 +1,4 @@
+[Discussion Post (created on 4/6/2022 at 20:17)](https://leetcode.com/problems/single-number/discuss/2239118/single-number-for-beginners-easy-solution-with-comment)  
 <h2>  Single Number</h2><hr><div><p>Given a <strong>non-empty</strong>&nbsp;array of integers <code>nums</code>, every element appears <em>twice</em> except for one. Find that single one.</p>
 
 <p>You must&nbsp;implement a solution with a linear runtime complexity and use&nbsp;only constant&nbsp;extra space.</p>
