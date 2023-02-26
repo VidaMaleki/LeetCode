@@ -11,5 +11,4 @@ class Solution:
                     curr -=1
                 left +=1
             ans = max(ans, i - left + 1)
-            print("index", i, "left", left, "curr", curr, "ans", ans)
         return ans
