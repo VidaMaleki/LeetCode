@@ -10,7 +10,6 @@ class Solution:
         no_losses = [player for player in wins if player not in losses]
         one_loss = [player for player in losses if losses[player] == 1]
 
-        no_losses.sort()
-        one_loss.sort()
-        return [no_losses, one_loss]
+       
+        return [sorted(no_losses), sorted(one_loss)]
             
