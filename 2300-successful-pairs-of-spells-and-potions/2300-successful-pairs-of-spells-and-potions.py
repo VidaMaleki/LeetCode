@@ -8,8 +8,8 @@ class Solution:
             right = len(potions) -1
             while left <= right:
                 mid = (left + right) //2
-                # if potions[mid] * spells[i] >= success:
-                if potions[mid] >= (success + spells[i] - 1) // spells[i]:
+                if potions[mid] * spells[i] >= success:
+                # if potions[mid] >= (success + spells[i] - 1) // spells[i]:
                     right = mid -1
                 else:
                     left = mid +1
