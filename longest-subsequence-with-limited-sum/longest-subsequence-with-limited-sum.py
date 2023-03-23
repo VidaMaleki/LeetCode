@@ -7,19 +7,19 @@ class Solution:
         for num in queries: # first loop num = 5 
             left = 0 # left = 3 
             right = len(nums) # 3
-            if num < nums[0]:
-                answer.append(0)
+            # if num < nums[0]:
+            #     answer.append(0)
             # elif nums[0] <= num:
             #     answer.append(1)
             # elif(num >= nums[right-1]):
             #     answer.append(len(nums))
-            else:        
-                while left < right: 
-                    mid = (left + right) // 2 # mid = 2
+            # else:        
+            while left < right: 
+                mid = (left + right) // 2 # mid = 2
 
-                    if sum(nums[:mid+1]) <= num: # 7 <= 10
-                        left = mid + 1
-                    else:
-                        right = mid 
-                answer.append(left) #2 , 3, 
+                if sum(nums[:mid+1]) <= num: # 7 <= 10
+                    left = mid + 1
+                else:
+                    right = mid 
+            answer.append(left) #2 , 3, 
         return answer
