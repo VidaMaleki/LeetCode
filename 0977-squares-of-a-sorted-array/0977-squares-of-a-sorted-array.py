@@ -1,26 +1,20 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        # 1
-        # return sorted(x*x for x in A)
-        # 2
-        # square_list = []
-        # for num in nums:
-        #     square = num * num
-        #     square_list.append(square)
-        # return sorted(square_list)
-        
-        sorted_squares = [None] * len(nums)
-        right = 0
-        left = len(nums) -1
-        n = len(nums) -1
-        for i in range(len(nums)-1, -1, -1):
-            print(i, nums[i], nums[right], nums[left])
-            if abs(nums[right]) < abs(nums[left]):
-                sorted_squares[i] = nums[left] ** 2
-                left -=1
+        squared_list = []
+        left = 0
+        right = len(nums)-1
+        while left < right:
+            max_right = nums[right] * nums[right] 
+            max_left = nums[left] * nums[left]
+            if (max_right) > (max_left):
+                squared_list.insert(0,max_right)
+                right -= 1
             else:
-                sorted_squares[i] = nums[right] ** 2
-                right +=1
-        return sorted_squares
-                
+                squared_list.insert(0,max_left)
+                left += 1
+        print("left", left, "right", right)
         
+        temp = nums[left] * nums[left]
+        squared_list.insert(0, temp)
+        
+        return squared_list
