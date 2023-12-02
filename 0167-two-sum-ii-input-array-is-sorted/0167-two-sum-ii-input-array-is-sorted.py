@@ -5,13 +5,12 @@ class Solution:
         current = float('-inf')
         while current != target:
             current = numbers[left] + numbers[right]
-            print(current)
-            print(left, right)
-            if current > target:
-                right -=1
-            elif current < target:
-                left +=1
-            else:
+            if current == target:
                 return [left +1, right +1]
+            elif current > target:
+                right -=1
+            else:
+                left +=1
+                
             
         
