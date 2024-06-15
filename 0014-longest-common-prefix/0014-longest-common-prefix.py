@@ -3,8 +3,6 @@ class Solution:
         if not strs:
             return ""
         min_len = min(strs, key=len)
-        commons = []
-        print(min_len)
         for i in range(len(min_len)):
             for word in strs:
                 if min_len[i] != word[i]:
