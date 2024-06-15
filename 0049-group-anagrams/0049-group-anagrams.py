@@ -3,10 +3,10 @@ class Solution:
         strs_dict = {}
         for word in strs:
             temp = "".join(sorted(word))
-            if temp in strs_dict:
-                strs_dict[temp].append(word)
-            else:
+            if temp not in strs_dict:
                 strs_dict[temp] = [word]
+            else:
+                strs_dict[temp].append(word)
                 
         return strs_dict.values()
             
