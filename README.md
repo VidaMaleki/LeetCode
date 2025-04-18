@@ -41,5 +41,10 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
