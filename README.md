@@ -13,6 +13,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/VidaMaleki/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/VidaMaleki/LeetCode/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/VidaMaleki/LeetCode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
