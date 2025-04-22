@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
+| [0209-minimum-size-subarray-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -73,5 +74,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
