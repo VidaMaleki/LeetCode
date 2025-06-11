@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/VidaMaleki/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/VidaMaleki/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
