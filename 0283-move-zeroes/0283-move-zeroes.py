@@ -3,13 +3,14 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        left = 0
-        right = len(nums)
-        while left <right:
-            if nums[left] == 0:
-                nums.pop(left)
-                nums.append(0)
-                right -=1
-            else:
-                left +=1
-        return nums
+        if len(nums) <=1:
+            return nums
+        left =0
+        for num in nums:
+            if num != 0:
+                nums[left] = num
+                left+=1
+        
+        nums[left:] = [0]* (len(nums) -left)
+
+        
