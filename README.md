@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/VidaMaleki/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/VidaMaleki/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VidaMaleki/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/VidaMaleki/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/VidaMaleki/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/VidaMaleki/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/VidaMaleki/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VidaMaleki/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VidaMaleki/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/VidaMaleki/LeetCode/tree/master/0202-happy-number) |
