@@ -58,6 +58,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/VidaMaleki/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VidaMaleki/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VidaMaleki/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VidaMaleki/LeetCode/tree/master/0290-word-pattern) |
@@ -74,6 +75,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/VidaMaleki/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VidaMaleki/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/VidaMaleki/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/VidaMaleki/LeetCode/tree/master/0344-reverse-string) |
