@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VidaMaleki/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/VidaMaleki/LeetCode/tree/master/0125-valid-palindrome) |
@@ -83,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VidaMaleki/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/VidaMaleki/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/VidaMaleki/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VidaMaleki/LeetCode/tree/master/0125-valid-palindrome) |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/VidaMaleki/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/VidaMaleki/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
