@@ -6,7 +6,7 @@ class Solution:
             sum_nums = numbers[i] + numbers[n]            
             if sum_nums < target:
                 i +=1
-            if sum_nums > target:
+            elif sum_nums > target:
                 n -=1
-            if sum_nums == target:
+            else:
                 return [i+ 1, n +1]
