@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VidaMaleki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/VidaMaleki/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 | [1046-max-consecutive-ones-iii](https://github.com/VidaMaleki/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -132,16 +133,23 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
