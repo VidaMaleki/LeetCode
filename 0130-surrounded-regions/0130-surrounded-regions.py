@@ -2,9 +2,6 @@ class Solution:
     def solve(self, board: List[List[str]]) -> None:
         """
         Do not return anything, modify board in-place instead.
-        I want to use dfs
-        check if cell is o and enter to dfs
-        in dfs check if cell in edge return
         """
         if not board:
             return
