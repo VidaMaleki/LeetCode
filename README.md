@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/VidaMaleki/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/VidaMaleki/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VidaMaleki/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/VidaMaleki/LeetCode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VidaMaleki/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VidaMaleki/LeetCode/tree/master/0169-majority-element) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VidaMaleki/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VidaMaleki/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
