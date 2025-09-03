@@ -1,13 +1,9 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        min_price = 0
-        max_price = float("-inf")
+        balance = prices[0]
         profit = 0
         for i in range(1,len(prices)):
-            if prices[i] < prices[min_price]:
-                min_price = i
-            if prices[i] > prices[min_price] and i > min_price:
-                max_price = prices[i]
-            temp = max_price - prices[min_price]
-            profit = max(profit,temp)
+            temp = prices[i] - balance
+            profit = max(temp, profit)
+            balance = min(prices[i], balance)
         return profit
