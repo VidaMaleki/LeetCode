@@ -4,22 +4,20 @@ class Solution:
         if not s:
             return 0
         sign = 1
-        answer= ""
-        
         i = 0
-        if s[0] in "+-":
-            sign = -1 if s[0] == "-" else 1
-            i = 1
-
+        if s[i] in ["+", "-"]:
+            if s[i] == "-":
+                sign = -1
+            i +=1
+        answer = 0
         while i < len(s) and s[i].isdigit():
-            answer += s[i]
+            answer  = answer * 10 + int(s[i])
             i+=1
-
-        if not answer:
-            return 0
-        val = int(answer) * sign
-
-        INT_MAX, INT_MIN = 2**31 - 1, -2**31
-        if val < INT_MIN: return INT_MIN
-        if val > INT_MAX: return INT_MAX
-        return val
+        
+        answer *= sign
+        MAX_NUM, MIN_NUM = 2**31-1, -2**31 
+        if answer > MAX_NUM:
+            return MAX_NUM
+        if answer < MIN_NUM:
+            return MIN_NUM
+        return answer
