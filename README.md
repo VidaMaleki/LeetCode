@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/VidaMaleki/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VidaMaleki/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0346-moving-average-from-data-stream](https://github.com/VidaMaleki/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VidaMaleki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/VidaMaleki/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -196,9 +197,15 @@
 ## Design
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/VidaMaleki/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0860-design-circular-queue](https://github.com/VidaMaleki/LeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/VidaMaleki/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0860-design-circular-queue](https://github.com/VidaMaleki/LeetCode/tree/master/0860-design-circular-queue) |
+## Data Stream
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/VidaMaleki/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 <!---LeetCode Topics End-->
