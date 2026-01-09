@@ -27,6 +27,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VidaMaleki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/VidaMaleki/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/VidaMaleki/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VidaMaleki/LeetCode/tree/master/0733-flood-fill) |
