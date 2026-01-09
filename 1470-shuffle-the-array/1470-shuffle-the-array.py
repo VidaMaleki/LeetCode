@@ -4,10 +4,10 @@ class Solution:
         right = n
         index = 0
         ans = []
-        while index < len(nums):
+        while index < n:
             ans.append(nums[left])
             ans.append(nums[right])
             left+=1
             right+=1
-            index+=2
+            index+=1
         return ans
