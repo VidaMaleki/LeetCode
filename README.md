@@ -205,6 +205,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VidaMaleki/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0860-design-circular-queue](https://github.com/VidaMaleki/LeetCode/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
@@ -227,6 +228,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VidaMaleki/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/VidaMaleki/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
