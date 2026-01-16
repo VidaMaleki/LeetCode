@@ -28,6 +28,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VidaMaleki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/VidaMaleki/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/VidaMaleki/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
@@ -151,12 +152,14 @@
 | [0287-find-the-duplicate-number](https://github.com/VidaMaleki/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VidaMaleki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VidaMaleki/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/VidaMaleki/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VidaMaleki/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -167,11 +170,13 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VidaMaleki/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidaMaleki/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/VidaMaleki/LeetCode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VidaMaleki/LeetCode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Depth-First Search
 |  |
 | ------- |
