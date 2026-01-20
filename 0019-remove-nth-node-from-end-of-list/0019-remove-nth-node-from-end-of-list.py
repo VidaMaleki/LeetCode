@@ -8,12 +8,12 @@ class Solution:
         length = 0
         current = head
         while current:
-            length += 1
-            current= current.next
-
+            length +=1
+            current = current.next
+        
         if length == n:
             return head.next
-                
+            
         current = head   
         k = length - n
         for _ in range(k -1):
@@ -21,5 +21,4 @@ class Solution:
         
         current.next = current.next.next
         return head
-    
         
