@@ -48,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/VidaMaleki/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/VidaMaleki/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/VidaMaleki/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/VidaMaleki/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/VidaMaleki/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/VidaMaleki/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -228,10 +229,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/VidaMaleki/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/VidaMaleki/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VidaMaleki/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/VidaMaleki/LeetCode/tree/master/0146-lru-cache) |
 | [0860-design-circular-queue](https://github.com/VidaMaleki/LeetCode/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/VidaMaleki/LeetCode/tree/master/0146-lru-cache) |
 | [0346-moving-average-from-data-stream](https://github.com/VidaMaleki/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0860-design-circular-queue](https://github.com/VidaMaleki/LeetCode/tree/master/0860-design-circular-queue) |
 | [1146-snapshot-array](https://github.com/VidaMaleki/LeetCode/tree/master/1146-snapshot-array) |
@@ -262,4 +265,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0039-combination-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VidaMaleki/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
