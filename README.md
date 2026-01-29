@@ -33,6 +33,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/VidaMaleki/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VidaMaleki/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/VidaMaleki/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VidaMaleki/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-design-circular-queue](https://github.com/VidaMaleki/LeetCode/tree/master/0860-design-circular-queue) |
 | [1046-max-consecutive-ones-iii](https://github.com/VidaMaleki/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/VidaMaleki/LeetCode/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/VidaMaleki/LeetCode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VidaMaleki/LeetCode/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/VidaMaleki/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
