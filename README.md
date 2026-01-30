@@ -118,6 +118,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/VidaMaleki/LeetCode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/VidaMaleki/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/VidaMaleki/LeetCode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VidaMaleki/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/VidaMaleki/LeetCode/tree/master/0155-min-stack) |
 | [0346-moving-average-from-data-stream](https://github.com/VidaMaleki/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0860-design-circular-queue](https://github.com/VidaMaleki/LeetCode/tree/master/0860-design-circular-queue) |
 | [1146-snapshot-array](https://github.com/VidaMaleki/LeetCode/tree/master/1146-snapshot-array) |
