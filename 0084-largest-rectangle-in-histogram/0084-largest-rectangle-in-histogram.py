@@ -3,13 +3,21 @@ class Solution:
         max_area = 0
         stack = []
 
-        for i, h in enumerate(heights + [0]):
-            while stack and heights[stack[-1]] > h:
-                height = heights[stack.pop()]
-                left = stack[-1] if stack else -1
-                width = i - left - 1
-                max_area = max(max_area, height * width)
-            stack.append(i)
+        for i, h in enumerate(heights):
+            start = i
+
+            # close rectangles that are too tall
+            while stack and stack[-1][1] > h:
+                idx, height = stack.pop()
+                max_area = max(max_area, height * (i - idx))
+                start = idx
+
+            stack.append((start, h))
+
+        # any bars left
+        n = len(heights)
+        for idx, height in stack:
+            max_area = max(max_area, height * (n - idx))
 
         return max_area
 
