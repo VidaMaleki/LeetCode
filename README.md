@@ -196,6 +196,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/VidaMaleki/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VidaMaleki/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VidaMaleki/LeetCode/tree/master/0733-flood-fill) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/VidaMaleki/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VidaMaleki/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VidaMaleki/LeetCode/tree/master/0733-flood-fill) |
@@ -280,4 +282,12 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VidaMaleki/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/VidaMaleki/LeetCode/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
