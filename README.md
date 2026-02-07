@@ -198,6 +198,7 @@
 | [0130-surrounded-regions](https://github.com/VidaMaleki/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VidaMaleki/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VidaMaleki/LeetCode/tree/master/0733-flood-fill) |
@@ -288,13 +289,16 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
