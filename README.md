@@ -301,4 +301,12 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
