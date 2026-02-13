@@ -8,7 +8,6 @@ from collections import deque
 class Solution:
     def isCousins(self, root: Optional[TreeNode], x: int, y: int) -> bool:
         queue = deque([(root, None, 0)])
-        left_par = None
         x_info = None
         y_info = None
         while queue:
