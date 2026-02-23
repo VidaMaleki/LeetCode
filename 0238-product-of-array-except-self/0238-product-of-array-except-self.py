@@ -1,27 +1,28 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
+        """
+        1, 1 , 2, 6
+        24 12 4, 1
+        24, 12, 8, 6
+
+        1, -1, -1, 0, 0
+        0   0  -9  3  1
+        0. 0    9. 0.  0
+        """
         n = len(nums)
-        
-        # List to store the left products
-        list1 = [1] * n
-        total = 1
+        answer = [1] * n
+
+        prefix = 1
         for i in range(n):
-            list1[i] = total
-            total *= nums[i]
+            answer[i] = prefix
+            prefix *= nums[i]
         
-        # List to store the right products
-        list2 = [1] * n
-        temp = 1
+        suffix = 1
         for i in range(n-1, -1, -1):
-            list2[i] = temp
-            temp *= nums[i]
-            
-        result = [1] * n
-        # Combine the left and right products to get the result
-        for i in range(n):
-            result[i] = list1[i] * list2[i]
+            answer[i] *= suffix
+            suffix *= nums[i]
         
-        return result
+        return answer
         
-          
-            
+
+        
