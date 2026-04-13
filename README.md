@@ -16,6 +16,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/VidaMaleki/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/VidaMaleki/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidaMaleki/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/VidaMaleki/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/VidaMaleki/LeetCode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VidaMaleki/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VidaMaleki/LeetCode/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VidaMaleki/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/VidaMaleki/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/VidaMaleki/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/VidaMaleki/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/VidaMaleki/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/VidaMaleki/LeetCode/tree/master/0169-majority-element) |
@@ -310,6 +312,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VidaMaleki/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
