@@ -109,6 +109,7 @@
 | [0008-string-to-integer-atoi](https://github.com/VidaMaleki/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/VidaMaleki/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/VidaMaleki/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VidaMaleki/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VidaMaleki/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidaMaleki/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/VidaMaleki/LeetCode/tree/master/0509-fibonacci-number) |
@@ -280,6 +282,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0039-combination-sum) |
 ## Doubly-Linked List
 |  |
