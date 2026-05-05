@@ -6,39 +6,28 @@ class RandomizedSet:
         self.values_dict = {}
 
     def insert(self, val: int) -> bool:
-        """
-        Inserts an item val into the set if not present. 
-        Returns true if the item was not present, false otherwise.
-        """
         if val in self.values_dict:
             return False
-        self.values.append(val)
-        self.values_dict[val] = len(self.values) -1
+        self.values.append(val)   
+        self.values_dict[val] = len(self.values)-1
+        return True
 
     def remove(self, val: int) -> bool:
-        """
-        Removes an item val from the set if present. 
-        Returns true if the item was present, false otherwise.
-        """
         if val not in self.values_dict:
             return False
-
+        
         index = self.values_dict[val]
         last = self.values[-1]
 
+        # [1, 3, 7] -> [1, 7, 7]
         self.values[index] = last
         self.values_dict[last] = index
         self.values.pop()
 
         del self.values_dict[val]
         return True
-
+        
     def getRandom(self) -> int:
-        """
-        Returns a random element from the current set of elements
-        (it's guaranteed that at least one element exists when this method is called)
-        Each element must have the same probability of being returned.
-        """
         return random.choice(self.values)
         
 
