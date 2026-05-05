@@ -6,10 +6,8 @@ class HitCounter:
 
     def hit(self, timestamp: int) -> None:
         self.hits.append(timestamp)
-        print(self.hits)
 
     def getHits(self, timestamp: int) -> int:
-        
         while self.hits and timestamp - self.hits[0] >= 300:
             self.hits.popleft()
         return len(self.hits)
