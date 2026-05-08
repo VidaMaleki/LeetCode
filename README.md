@@ -121,6 +121,7 @@
 | [0290-word-pattern](https://github.com/VidaMaleki/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/VidaMaleki/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VidaMaleki/LeetCode/tree/master/0383-ransom-note) |
+| [0443-string-compression](https://github.com/VidaMaleki/LeetCode/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0344-reverse-string](https://github.com/VidaMaleki/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VidaMaleki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/VidaMaleki/LeetCode/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
