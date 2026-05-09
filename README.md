@@ -46,6 +46,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/VidaMaleki/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1470-shuffle-the-array](https://github.com/VidaMaleki/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/VidaMaleki/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/VidaMaleki/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/VidaMaleki/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/VidaMaleki/LeetCode/tree/master/0383-ransom-note) |
 | [1146-snapshot-array](https://github.com/VidaMaleki/LeetCode/tree/master/1146-snapshot-array) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/VidaMaleki/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0344-reverse-string](https://github.com/VidaMaleki/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VidaMaleki/LeetCode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/VidaMaleki/LeetCode/tree/master/0443-string-compression) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/VidaMaleki/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -336,4 +339,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/VidaMaleki/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Trie
+|  |
+| ------- |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/VidaMaleki/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 <!---LeetCode Topics End-->
