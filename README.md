@@ -45,6 +45,7 @@
 | [1146-snapshot-array](https://github.com/VidaMaleki/LeetCode/tree/master/1146-snapshot-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VidaMaleki/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1470-shuffle-the-array](https://github.com/VidaMaleki/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/VidaMaleki/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/VidaMaleki/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/VidaMaleki/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Hash Table
@@ -88,6 +89,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VidaMaleki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1710-maximum-units-on-a-truck](https://github.com/VidaMaleki/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/VidaMaleki/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/VidaMaleki/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Depth-First Search
 |  |
 | ------- |
