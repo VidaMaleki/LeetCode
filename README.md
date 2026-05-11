@@ -134,6 +134,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/VidaMaleki/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/VidaMaleki/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/VidaMaleki/LeetCode/tree/master/0155-min-stack) |
+| [0341-flatten-nested-list-iterator](https://github.com/VidaMaleki/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0739-daily-temperatures](https://github.com/VidaMaleki/LeetCode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -218,6 +219,7 @@
 | [0200-number-of-islands](https://github.com/VidaMaleki/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/VidaMaleki/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0547-number-of-provinces](https://github.com/VidaMaleki/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/VidaMaleki/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VidaMaleki/LeetCode/tree/master/0733-flood-fill) |
@@ -266,6 +268,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/VidaMaleki/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/VidaMaleki/LeetCode/tree/master/0155-min-stack) |
+| [0341-flatten-nested-list-iterator](https://github.com/VidaMaleki/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/VidaMaleki/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/VidaMaleki/LeetCode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VidaMaleki/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -274,6 +277,7 @@
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/VidaMaleki/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/VidaMaleki/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/VidaMaleki/LeetCode/tree/master/0362-design-hit-counter) |
 | [0860-design-circular-queue](https://github.com/VidaMaleki/LeetCode/tree/master/0860-design-circular-queue) |
@@ -316,6 +320,7 @@
 | [0098-validate-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/VidaMaleki/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0993-cousins-in-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -346,4 +351,8 @@
 |  |
 | ------- |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/VidaMaleki/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/VidaMaleki/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
