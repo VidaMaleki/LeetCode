@@ -45,6 +45,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/VidaMaleki/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/VidaMaleki/LeetCode/tree/master/1146-snapshot-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VidaMaleki/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/VidaMaleki/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/VidaMaleki/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/VidaMaleki/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/VidaMaleki/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -194,6 +195,7 @@
 | [0238-product-of-array-except-self](https://github.com/VidaMaleki/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VidaMaleki/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/VidaMaleki/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
