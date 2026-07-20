@@ -127,6 +127,7 @@
 | [0290-word-pattern](https://github.com/VidaMaleki/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/VidaMaleki/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VidaMaleki/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/VidaMaleki/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VidaMaleki/LeetCode/tree/master/0443-string-compression) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/VidaMaleki/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Stack
@@ -165,6 +166,7 @@
 | [0344-reverse-string](https://github.com/VidaMaleki/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VidaMaleki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VidaMaleki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/VidaMaleki/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VidaMaleki/LeetCode/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
@@ -207,6 +209,7 @@
 | [0022-generate-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidaMaleki/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/VidaMaleki/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/VidaMaleki/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/VidaMaleki/LeetCode/tree/master/0509-fibonacci-number) |
 ## Greedy
