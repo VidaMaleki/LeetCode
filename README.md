@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VidaMaleki/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/VidaMaleki/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/VidaMaleki/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/VidaMaleki/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VidaMaleki/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VidaMaleki/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/VidaMaleki/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VidaMaleki/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/VidaMaleki/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VidaMaleki/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -207,6 +209,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VidaMaleki/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/VidaMaleki/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/VidaMaleki/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidaMaleki/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/VidaMaleki/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/VidaMaleki/LeetCode/tree/master/0392-is-subsequence) |
