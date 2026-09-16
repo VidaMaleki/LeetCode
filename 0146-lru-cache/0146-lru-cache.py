@@ -21,7 +21,7 @@ class LRUCache:
             if len(self.cashe) >= self.capacity:
                 self.cashe.popitem(last=False)
             self.cashe[key] = value
-        return self.cashe
+        
         
 
 
