@@ -225,6 +225,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/VidaMaleki/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VidaMaleki/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -237,6 +238,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/VidaMaleki/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VidaMaleki/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -329,6 +331,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/VidaMaleki/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
@@ -337,6 +340,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/VidaMaleki/LeetCode/tree/master/0993-cousins-in-binary-tree) |
